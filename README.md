@@ -37,4 +37,4 @@ Berikut adalah hasil screenshoot aplikasinya : <br><br>
 ### *__Coba lihat pada tampilan awal aplikasi, maka icon "camera" yang sebelumnya, berubah menjadi gambar yang telah diambil tadi dari aplikasi kamera device yang digunakan__*
 ![screenshots](https://github.com/sbbriggitash/Intent3/blob/master/Intent11.png)<br><br><br>
 
-## Shafhira Briggita Y._XI RPL 4_31_4836/1555.070_SMK Telkom Malang
+## Shafhira Briggita Y._XI RPL 4_31_4835/1554.070_SMK Telkom Malang
